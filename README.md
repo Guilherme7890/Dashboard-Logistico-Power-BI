@@ -1,4 +1,4 @@
-# 📊 Dashboard Logístico - Power BI
+# 📊 Dashboard Transportadora - Power BI
 
 Fala pessoal! 👋
 

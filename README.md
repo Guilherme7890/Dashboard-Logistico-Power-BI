@@ -10,7 +10,7 @@ A ideia foi construir desde a base de dados até a visualização final, pensand
 
 ## 📷 Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](DASHBOARD01.png)
 
 
 

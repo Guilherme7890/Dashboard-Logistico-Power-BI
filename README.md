@@ -44,5 +44,5 @@ Os dados não seguem um padrão fixo, justamente para deixar a análise mais rea
 ## 🛠️ Ferramentas
 
 - Power BI
-- Excel (geração e tratamento dos dados)
+- Excel
 
